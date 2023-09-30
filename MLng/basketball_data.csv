@@ -1,0 +1,15 @@
+ PlayerName             , Team            , GP   , MPG   , FG   , 3P   , FT    , PPG    , Salary   
+" Stephen Curry,PG       ", Warriors        ,69,33.8,0.472,0.437,0.916,27.3,37.457
+" LeBron James,SF        ", Lakers          ,55,35.2,0.51,0.339,0.665,27.4,35.654
+ Nikola Vucevic         , Magic           ,80,31.4,0.518,0.364,0.789,20.8,12.75
+ Klay Thompson          , Warriors        ,78,34,0.467,0.402,0.816,21.5,18.988
+ James Johnson          , Heat            ,55,21.2,0.433,0.336,0.714,7.8,14.651
+ Zach Lavine            , Bulls           ,63,34.5,0.467,0.374,0.832,23.7,19.5
+" Nikola Jokic,C         ", Nuggets         ,80,31.3,0.511,0.307,0.821,20.1,24.605
+" CJ McCollum,SG         ", Blazers         ,70,33.9,0.459,0.375,0.828,21,25.759
+" Chris Paul,PG          ", Rockets         ,58,32,0.419,0.358,0.862,15.6,36.654
+" Blake Griffins,PF      ", Pistons         ,75,35,0.463,0.362,0.753,24.5,32.088
+" Steven Adams,C         ", Thunder         ,80,33.4,0.595,0,0.5,13.9,24.157
+" Robin Lopez,C          ", Bulls           ,74,21.7,0.568,0.226,0.724,9.5,14.357
+" Kelly Olynyk,PF        ", Heat            ,79,22.9,0.463,0.354,0.822,10,12.537
+" John Leuer,F           ", Pistons         ,41,9.8,0.584,0.091,0.742,3.8,10.002
