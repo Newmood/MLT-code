@@ -1,1 +1,0 @@
-This includes notebooks with python implementations of ML algorithms I learnt in the workshop.
